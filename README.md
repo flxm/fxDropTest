@@ -12,6 +12,7 @@ Quick example to demonstrate loading local file into electron application and sh
 
 * Download and install NodeJs (https://nodejs.org/en/)
 * Run `npm install` in source folder to install dependencies
+* Request access token from https://www.mapbox.com/ and enter in `index.html` line 69
 * Launch application with `npm start`
 * Drag and drop `.csv` file into blue area
 
